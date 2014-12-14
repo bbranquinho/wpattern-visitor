@@ -1,0 +1,4 @@
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@10e4fd7[
+  symbol=DI1N13
+  lastPrice=0.9054505333586165
+]

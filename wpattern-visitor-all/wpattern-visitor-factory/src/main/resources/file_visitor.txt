@@ -1,0 +1,43 @@
+BOOK:br.com.wpattern.visitor.utils.beans.BookBean@1088a1b[
+  price=0.23115342958750784
+  quantity=387
+  date=Mon May 21 13:54:57 BRT 2012
+]
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@169dd64[
+  symbol=VALE5
+  lastPrice=0.8147458097686238
+]
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@145f5e3[
+  symbol=PETR4
+  lastPrice=0.600004426692135
+]
+BOOK:br.com.wpattern.visitor.utils.beans.BookBean@170984c[
+  price=0.13914596621551745
+  quantity=560
+  date=Mon May 21 13:55:00 BRT 2012
+]
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@11ed166[
+  symbol=PETR4
+  lastPrice=0.9689580899308162
+]
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@45aa2c[
+  symbol=VALE5
+  lastPrice=0.3486472290608823
+]
+BOOK:br.com.wpattern.visitor.utils.beans.BookBean@1a734ff[
+  price=0.10372775046386329
+  quantity=-597
+  date=Mon May 21 13:55:03 BRT 2012
+]
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@886ad0[
+  symbol=VALE5
+  lastPrice=0.07024268263159317
+]
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@1cab18[
+  symbol=PETR4
+  lastPrice=0.6877868980606884
+]
+QUOTATION:br.com.wpattern.visitor.utils.beans.QuotationBean@24e801[
+  symbol=VALE5
+  lastPrice=0.5344241725623924
+]
